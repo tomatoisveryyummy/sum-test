@@ -1,7 +1,7 @@
 #include "sum.h"
 
 int main(void) {
-    std::cout << sum(8, 9);
+    std::cout << "result=" << sum(6) << std::endl;
 
     return 0;
 }
